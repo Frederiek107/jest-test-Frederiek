@@ -1,11 +1,5 @@
-function divideBy3(number) {
-    const result= (number/3);
-if (number%3 ===0) {
-    return true;
-}
-else {
-    return false;
-}
+function divideBy3() {
+// WRITE ME!
 }
 
 
